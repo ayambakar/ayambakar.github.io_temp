@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post-rsses on Certain food of texts</title>
+    <link>http://ayambakar.xyz/post/index.xml</link>
+    <description>Recent content in Post-rsses on Certain food of texts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 13 Nov 2016 23:05:02 +0700</lastBuildDate>
+    <atom:link href="http://ayambakar.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://ayambakar.xyz/post/hello-world/</link>
+      <pubDate>Sun, 13 Nov 2016 23:05:02 +0700</pubDate>
+      
+      <guid>http://ayambakar.xyz/post/hello-world/</guid>
+      <description>&lt;p&gt;Hello world.
+This is the very first day this page has lived.
+But surely it has several abandoned predecessor.
+Let&amp;rsquo;s all hope for it to survive.
+And by overriding github default page generator content, here I present its birth.&lt;/p&gt;
+
+&lt;p&gt;I love cats, but I won&amp;rsquo;t post about cats here.
+I expect this page will be filled by posts of review, my thought on some manga I&amp;rsquo;ve read or music I just listen. Could be some work/tech related thingy, but no cats. Hopefully.&lt;/p&gt;
+
+&lt;p&gt;Those of you who come here looking to stuff your stomach, well you visit the &lt;strong&gt;wrong&lt;/strong&gt; place.
+But do feel free to visit whenever you like.&lt;/p&gt;
+
+&lt;p&gt;ps: &lt;em&gt;some of you might associate &amp;lsquo;ayambakar&amp;rsquo; with roasted chicken&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
